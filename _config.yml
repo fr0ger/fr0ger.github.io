@@ -13,10 +13,10 @@ title                    : "Terry Leung"
 title_separator          : "-"
 name                     : &name "Terry Leung"
 description              : &description "Personal academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://fr0ger.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://fr0ger.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/academic-homepage" # the subpath of your site, e.g. "/blog"
-repository               : "fr0ger/academic-homepage"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "fr0ger/fr0ger.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
